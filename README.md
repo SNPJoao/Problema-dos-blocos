@@ -1,6 +1,6 @@
 # Problema-dos-blocos
 
-# # Sobre o problema
+## Sobre o problema
 
 O problema dos blocos se trata de:
 
@@ -11,7 +11,7 @@ O problema dos blocos se trata de:
 O objetivo do problema é sair de uma configuração e chegar à outra com as ações do braço robótico.
 Nesse código em específico, você empilha os blocos como quiser e pede para o braço robótico resolver o problema. Ao final das ações, todos os blocos estarão empilhados de forma ordenada.
 
-# # Sobre o código
+## Sobre o código
 
 O programa possui 5 blocos, mas consegue resolver para um número arbitrário de blocos.
 Apesar do programar utilizar somente 1 busca, está implementada outra busca para utilização caso o desenvolvedor queira alterar.
@@ -29,7 +29,7 @@ Ao executar, vai aparecer a tela principal do programa.
 
 O arquivo `.jar` da biblioteca `AIMA` está disponível [aqui](https://github.com/aimacode/aima-java/releases)
 
-# # Sobre o desenvolvimento do código
+## Sobre o desenvolvimento do código
 
 O código foi criado com a intenção de obter nota na disciplina de Inteligência Computacional, do curso Engenharia de Computação da UEPG.
 Modificado para demonstrar de forma visual o funcionamento da inteligência artifical.
