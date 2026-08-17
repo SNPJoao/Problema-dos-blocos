@@ -1,9 +1,9 @@
-package roboBlocos.funcionamentoDoSistema;
+package src.funcionamentoDoSistema;
 
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Stack;
-import roboBlocos.funcionamentoDoSistema.*;
+import src.funcionamentoDoSistema.*;
 import aima.core.agent.Action;
 
 public class BFunctions{

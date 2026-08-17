@@ -1,4 +1,4 @@
-package roboBlocos.telasDoSistema;
+package src.telasDoSistema;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package roboBlocos.telasDoSistema;
+package src.telasDoSistema;
 
 import javax.swing.JFrame;
 import javax.swing.SwingUtilities;

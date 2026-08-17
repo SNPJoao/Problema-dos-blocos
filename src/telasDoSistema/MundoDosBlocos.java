@@ -1,4 +1,4 @@
-package roboBlocos.telasDoSistema;
+package src.telasDoSistema;
 
 import javax.swing.JOptionPane;
 import javax.swing.JPanel;
@@ -20,8 +20,8 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Stack;
 
-import roboBlocos.funcionamentoDoSistema.BActions;
-import roboBlocos.funcionamentoDoSistema.Blocos;
+import src.funcionamentoDoSistema.BActions;
+import src.funcionamentoDoSistema.Blocos;
 
 //Tela em que o usuário monta uma configuração de blocos arrastando-os com o mouse e, em
 //seguida, pede para o robô resolver e assistir à animação da solução encontrada pela busca.

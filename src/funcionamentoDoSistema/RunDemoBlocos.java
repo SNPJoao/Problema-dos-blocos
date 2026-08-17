@@ -1,6 +1,6 @@
-package roboBlocos.funcionamentoDoSistema;
+package src.funcionamentoDoSistema;
 
-import roboBlocos.funcionamentoDoSistema.*;
+import src.funcionamentoDoSistema.*;
 import java.util.List;
 import java.util.Stack;
 import java.util.ArrayList;

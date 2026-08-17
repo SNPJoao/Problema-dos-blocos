@@ -1,8 +1,8 @@
-package roboBlocos.funcionamentoDoSistema;
+package src.funcionamentoDoSistema;
 
 import java.util.List;
 import java.util.Stack;
-import roboBlocos.funcionamentoDoSistema.Blocos;
+import src.funcionamentoDoSistema.Blocos;
 
 public class EBlocos{
   //Attributes

@@ -1,4 +1,4 @@
-package roboBlocos.funcionamentoDoSistema;
+package src.funcionamentoDoSistema;
 
 import aima.core.agent.impl.DynamicAction;
 

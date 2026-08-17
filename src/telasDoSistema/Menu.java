@@ -1,4 +1,4 @@
-package roboBlocos.telasDoSistema;
+package src.telasDoSistema;
 
 import javax.swing.JPanel;
 import javax.swing.Timer;

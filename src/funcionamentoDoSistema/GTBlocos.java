@@ -1,10 +1,10 @@
-package roboBlocos.funcionamentoDoSistema;
+package src.funcionamentoDoSistema;
 
 import aima.core.search.framework.problem.GoalTest;
 import java.util.List;
 import java.util.Stack;
-import roboBlocos.funcionamentoDoSistema.EBlocos;
-import roboBlocos.funcionamentoDoSistema.Blocos;
+import src.funcionamentoDoSistema.EBlocos;
+import src.funcionamentoDoSistema.Blocos;
 import java.util.Set;
 import java.util.HashSet;
 

@@ -1,4 +1,4 @@
-package roboBlocos.funcionamentoDoSistema;
+package src.funcionamentoDoSistema;
 
 public class TesteBlocos{
   //Método principal

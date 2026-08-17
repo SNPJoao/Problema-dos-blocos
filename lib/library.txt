@@ -1,0 +1,1 @@
+Coloque aqui o .jar da biblioteca AIMA caso não tenha e vá executar por linha de comando conforme o README.

@@ -1,9 +1,9 @@
-package roboBlocos.telasDoSistema;
+package src.telasDoSistema;
 
-import roboBlocos.funcionamentoDoSistema.BActions;
-import roboBlocos.funcionamentoDoSistema.BFunctions;
-import roboBlocos.funcionamentoDoSistema.Blocos;
-import roboBlocos.funcionamentoDoSistema.EBlocos;
+import src.funcionamentoDoSistema.BActions;
+import src.funcionamentoDoSistema.BFunctions;
+import src.funcionamentoDoSistema.Blocos;
+import src.funcionamentoDoSistema.EBlocos;
 
 import aima.core.search.framework.QueueBasedSearch;
 import aima.core.search.framework.problem.GeneralProblem;

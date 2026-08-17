@@ -1,4 +1,4 @@
-package roboBlocos.telasDoSistema;
+package src.telasDoSistema;
 
 import java.awt.BasicStroke;
 import java.awt.Color;
